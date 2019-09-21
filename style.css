@@ -1,3 +1,15 @@
 img{
-    border-radius: 50%
+    border-radius: 100%;
+}
+body{
+    background-color: #eaf6f6;
+}
+hr{
+    border: dotted 2px powderblue ;
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 10px;
+}
+h1 , h3 {
+    color: #66BFBF;
 }
